@@ -1,2 +1,2 @@
 # RNLI
-RNLI-2.0
+// This is the file that is going to be used to create the website//
